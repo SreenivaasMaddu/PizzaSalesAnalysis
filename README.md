@@ -4,6 +4,7 @@
 
 In this comprehensive data-driven endeavor, I take you on a detailed exploration of pizza sales using the powerful combination of Power BI and SQL. 
 From data extraction to creating impactful visualizations.
+
 Step 1: Data Acquisition
 The journey begins with accessing the SQL Server database and extracting data from the "pizza_sales" table. This raw dataset serves as the cornerstone of my analysis.
 
